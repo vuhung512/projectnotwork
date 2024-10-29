@@ -1,3 +1,3 @@
 git add update.zip
-git commit -m "Add new_update.zip"
+git commit -m "3.5"
 git push origin main
