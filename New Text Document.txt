@@ -1,4 +1,4 @@
 git add update.zip
 git add .
-git commit -m "3.7"
+git commit -m "3.8"
 git push origin main
